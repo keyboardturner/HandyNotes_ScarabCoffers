@@ -1,4 +1,4 @@
-﻿## Interface: 80205
+## Interface: 80300
 ## Title: HandyNotes_ScarabCoffers
 ## Notes: Scarab Coffer locations in AQ40/20
 ## Author: Keyboardturner
