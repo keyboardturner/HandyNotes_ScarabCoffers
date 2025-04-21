@@ -11,6 +11,18 @@
 ## X-WoWI-ID: 26487
 ## X-Wago-ID: rkGrMlKy
 
+## Category-enUS: Map
+## Category-deDE: Karte
+## Category-esES: Mapa
+## Category-esMX: Mapa
+## Category-frFR: Carte
+## Category-itIT: Mappa
+## Category-koKR: 지도
+## Category-ptBR: Mapa
+## Category-ruRU: Карта
+## Category-zhCN: 地图
+## Category-zhTW: 地圖
+
 handler.lua
 config.lua
 nodes.lua
