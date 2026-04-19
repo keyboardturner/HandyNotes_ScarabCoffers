@@ -1,4 +1,4 @@
-﻿## Interface: 120000, 120001
+﻿## Interface: 120000, 120001, 120005
 ## Title: HandyNotes_ScarabCoffers
 ## Notes: Scarab Coffer locations in AQ40/20
 ## IconTexture: Interface/Addons/HandyNotes_ScarabCoffers/HandyNotes_ScarabCoffers.blp
